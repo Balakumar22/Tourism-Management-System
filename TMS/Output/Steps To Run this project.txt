@@ -1,0 +1,7 @@
+1.extract these project file in c:/xampp/htdocs
+2.Open Xamp Server 
+3.Start apache and mysql
+4.Go to browser and type phpMyadmin 
+5.select new -> import -> choose File(tms.sql file available in c:/xampp/htdocs/TMS/db) -> Go
+6.open new tab in browser and type ->http://localhost/TMS/home.php
+7.Then follow the image attached with output folder
